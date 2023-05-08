@@ -1,0 +1,101 @@
+* {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+form {
+    align-items: center;
+
+  width: 500px;
+  
+  padding: 90px;
+  background-color: transparent;
+}
+
+label {
+    color: #FFFFFF;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+input[type="text"], input[type="email"] {
+	color: #3DFF00;
+}
+input[type="number"], textarea {
+			color: #5CFF00;
+		}
+
+input,
+textarea {
+    
+  width: 250%;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #00FFF4;
+  border-radius: 5px;
+  background-color: transparent;
+  font-size: 16px;
+}
+.foot {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: 1px solid rgb(255, 51, 255);
+  border-radius: 5px;
+  background-color: rgb(255, 51, 255);
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.pg {
+    text-align: center;
+    font-size: 30px;
+}
+.div {
+    font-family: "Times New Roman", Times, serif;
+
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+.body {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, #5f2c82,black);
+}
+.ib {
+
+    border: 2px solid rgb(255, 51, 255);
+
+}
+.bot {
+
+    font-size: 80px;
+}
+.head {
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+.p {
+    font-family: "Times New Roman", Times, serif;
+
+    color: white;
+    font-size: 40px;
+
+}
+}
+
+.header {
+text-align: center;
+
+}
