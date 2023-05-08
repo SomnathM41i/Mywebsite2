@@ -2,8 +2,8 @@
 
 Output
 
-![alt text](https://github.com/SomnathM41i/website-2/blob/main/11.jpg)
+![alt text](https://github.com/SomnathM41i/Mywebsite2/blob/main/Image/11.jpg)
 
-![alt text](https://github.com/SomnathM41i/website-2/blob/main/22.jpg)
+![alt text](https://github.com/SomnathM41i/Mywebsite2/blob/main/Image/22.jpg)
 
-![alt text](https://github.com/SomnathM41i/website-2/blob/main/11.jpg)
+![alt text](https://github.com/SomnathM41i/Mywebsite2/blob/main/Image/33.jpg)
